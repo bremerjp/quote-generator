@@ -1,1 +1,2 @@
-console.log('cheese');
+// Get quote from API
+
